@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0187.jpg,xe hơi ở giữa khung hình,edited,Khung AI ôm không hết được toàn xe; sửa để sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,ánh đèn trên mặt đường,deleted,AI nhận nhầm ánh đèn thành xe; xóa khung theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,xe tối bị che một phần,added,AI bỏ sót xe; thêm khung cho phần nhìn thấy theo GUIDELINE_LABEL.md
